@@ -10,3 +10,11 @@ Projeto Integrador I – ADS Turma B / CEUB 2026_1
 <a href="https://github.com/isafernandes02" title="isafernandes02">
   <img src="https://github.com/isafernandes02.png" width="50" height="50" alt="isafernandes02"/>
 </a>
+
+<a href="https://github.com/Erikitzz" title="Erikitzz">
+  <img src="https://github.com/Erikitzz.png" width="50" height="50" alt="Erikitzz"/>
+</a>
+
+<a href="https://github.com/Miguelrc102" title="Miguelrc102">
+  <img src="https://github.com/Miguelrc102.png" width="50" height="50" alt="Miguelrc102"/>
+</a>
