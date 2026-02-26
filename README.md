@@ -3,42 +3,48 @@ Projeto Integrador I – ADS Turma B / CEUB 2026_1
 
 ## 👥 Colaboradores
 
-<div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Jhonata334">
+        <img src="https://github.com/Jhonata334.png" width="60px" alt="Jhonata334">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Jhonata334"><b>Jhonata Araujo</b></a>
+    </td>
 
-  <div style="display: flex; align-items: center; margin-bottom: 15px;">
-    <a href="https://github.com/Jhonata334">
-      <img src="https://github.com/Jhonata334.png" width="70px" alt="Jhonata334"/>
-    </a>
-    <a href="https://github.com/Jhonata334" style="margin-left: 15px; text-decoration: none;">
-      <h3 style="margin: 0;">Jhonata Araujo</h3>
-    </a>
-  </div>
+    <td style="padding-left: 30px;"></td>
 
-  <div style="display: flex; align-items: center; margin-bottom: 15px;">
-    <a href="https://github.com/isafernandes02">
-      <img src="https://github.com/isafernandes02.png" width="70px" alt="isafernandes02"/>
-    </a>
-    <a href="https://github.com/isafernandes02" style="margin-left: 15px; text-decoration: none;">
-      <h3 style="margin: 0;">Isadora Fernandes</h3>
-    </a>
-  </div>
+    <td>
+      <a href="https://github.com/isafernandes02">
+        <img src="https://github.com/isafernandes02.png" width="60px" alt="isafernandes02">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/isafernandes02"><b>Isadora Fernandes</b></a>
+    </td>
+  </tr>
 
-  <div style="display: flex; align-items: center; margin-bottom: 15px;">
-    <a href="https://github.com/Erikitzz">
-      <img src="https://github.com/Erikitzz.png" width="70px" alt="Erikitzz"/>
-    </a>
-    <a href="https://github.com/Erikitzz" style="margin-left: 15px; text-decoration: none;">
-      <h3 style="margin: 0;">Érik Santana</h3>
-    </a>
-  </div>
+  <tr>
+    <td>
+      <a href="https://github.com/Erikitzz">
+        <img src="https://github.com/Erikitzz.png" width="60px" alt="Erikitzz">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Erikitzz"><b>Érik Santana</b></a>
+    </td>
 
-  <div style="display: flex; align-items: center;">
-    <a href="https://github.com/Miguelrc102">
-      <img src="https://github.com/Miguelrc102.png" width="70px" alt="Miguelrc102"/>
-    </a>
-    <a href="https://github.com/Miguelrc102" style="margin-left: 15px; text-decoration: none;">
-      <h3 style="margin: 0;">Miguel Rocha</h3>
-    </a>
-  </div>
+    <td style="padding-left: 30px;"></td>
 
-</div>
+    <td>
+      <a href="https://github.com/Miguelrc102">
+        <img src="https://github.com/Miguelrc102.png" width="60px" alt="Miguelrc102">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Miguelrc102"><b>Miguel Rocha</b></a>
+    </td>
+  </tr>
+</table>
