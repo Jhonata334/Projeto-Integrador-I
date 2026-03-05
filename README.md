@@ -1,6 +1,12 @@
 # Projeto Integrador I
 Projeto Integrador I – ADS Turma B / CEUB 2026_1
 
+<p>Líder: Miguel Silva
+  Documentador: Érik Santana
+  Desenvolvedores: Jhonatan Ferreira e Isadora Fernandes
+  Tester: Luca Romariz
+</p>
+
 ## 👥 Colaboradores
 
 <p>
