@@ -1,10 +1,25 @@
-# Projeto Integrador I
-Projeto Integrador I – ADS Turma B / CEUB 2026_1
+<h1><b>Sistema de Gestão Escolar</b></h1>
 
-<p>Líder: Miguel Silva</p>
-<p>Documentador: Érik Santana</p>  
-<p>Desenvolvedores: Jhonata Ferreira e Isadora Fernandes</p> 
-<p>Tester: Luca Romariz</p>  
+<b>Descrição</b>
+<p>Sistema para organizar, automatizar e integrar os processos administrativos e pedagógicos de uma instituição de ensino. O Sistema de Gestão centraliza informações da escola em um único ambiente, facilitando o acesso e o controle por parte de gestores e professores.</p>
+
+<b>Objetivos Iniciais</b>
+<ul>
+  <li>Definir padrões com o Stakeholder</li>
+  <li>Definir linguagens</li>
+  <li>Definir metas alcançáveis</li>
+  <li>Levantar requisitos</li>
+  <li>Realização da prototipagem</li>
+  <li>Início da documentação</li>
+</ul>
+
+<b>Funções da Equipe</b>
+<ul>
+  <li>Líder: Miguel Silva</li>
+  <li>Documentador: Érik Santana</li>
+  <li>Desenvolvedores: Jhonata Ferreira e Isadora Fernandes</li>
+  <li>Tester: Luca Romariz</li>
+</ul>  
 
 ## 👥 Colaboradores
 
