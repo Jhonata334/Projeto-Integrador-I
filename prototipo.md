@@ -2,6 +2,9 @@
 
 ## O que terá o Protótipo
 
+### Visão Geral
+![Visão Geral](imagens/visao-geral.png)
+
 ### Tela de Login
 ![Tela de Login](imagens/login.png)
 
