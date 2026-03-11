@@ -1,5 +1,15 @@
-O que terá o Protótipo:
-Tela de login
-Tela de Notas/Desempenho
-Tela de Frequencia 
-Tela de Gestão do Professor
+# Protótipo do Sistema de Gestão Escolar
+
+## O que terá o Protótipo
+
+### Tela de Login
+![Tela de Login](imagens/login.png)
+
+### Tela de Notas / Desempenho
+![Tela de Notas](imagens/notas.png)
+
+### Tela de Frequência
+![Tela de Frequência](imagens/frequencia.png)
+
+### Tela de Gestão do Professor
+![Tela de Gestão do Professor](imagens/gestao-professor.png)
