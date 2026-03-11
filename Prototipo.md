@@ -1,6 +1,6 @@
 # Protótipo do Sistema de Gestão Escolar
 
-## O que terá o Protótipo
+## O que terá o Protótipo:
 
 ### Visão Geral
 ![Visão Geral](imagens/visao-geral.png)
