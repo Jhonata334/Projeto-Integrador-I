@@ -1,7 +1,7 @@
 <h1><b>Sistema de Gestão Escolar</b></h1>
 
 <b>Descrição</b>
-<p>Sistema para organizar, automatizar e integrar os processos administrativos e pedagógicos de uma instituição de ensino. O Sistema de Gestão centraliza informações da escola em um único ambiente, facilitando o acesso e o controle por parte de gestores e professores.</p>
+<p>Projeto na disciplina de Projeto Integrador I de um sistema para organizar, automatizar e integrar os processos administrativos e pedagógicos de uma instituição de ensino. O Sistema de Gestão centraliza informações da escola em um único ambiente, facilitando o acesso e o controle por parte de gestores e professores.</p>
 
 <b>Objetivos Iniciais</b>
 <ul>
@@ -12,6 +12,15 @@
   <li>Realização da prototipagem</li>
   <li>Início da documentação</li>
 </ul>
+
+<b>Objetivo do Projeto</b>
+<p>Orientar o desenvolvimento de uma plataforma centralizada que automatize os processos administrativos e acadêmicos, garantindo que a gestão de alunos, docentes e turmas ocorra de forma integrada, digital e eficiente.</p>
+
+<b>Definições de Problemas</b>
+<p>Atualmente, a instituição de ensino realiza processos administrativos utilizando papel, ou seja, uma metodologia arcaica e lenta em relação às atividades administrativas, podendo apresentar riscos de perda de dados, falta de segurança e dificuldade na recuperação de informações históricas.</p>
+
+<b>Solução para o Projeto</b>
+<p>O Sistema de Gestão Escolar tem como objetivo gerenciar e organizar as principais informações e processos administrativos de uma instituição de ensino. O sistema permite o cadastro e gerenciamento de alunos, professores, turmas e disciplinas, facilitando o controle acadêmico e administrativo da escola.</p>
 
 <b>Funções da Equipe</b>
 <ul>
