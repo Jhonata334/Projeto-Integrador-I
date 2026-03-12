@@ -16,7 +16,7 @@
 <b>Objetivo do Projeto</b>
 <p>Orientar o desenvolvimento de uma plataforma centralizada que automatize os processos administrativos e acadêmicos, garantindo que a gestão de alunos, docentes e turmas ocorra de forma integrada, digital e eficiente.</p>
 
-<b>Definições de Problemas</b>
+<b>Problema Principal</b>
 <p>Atualmente, a instituição de ensino realiza processos administrativos utilizando papel, ou seja, uma metodologia arcaica e lenta em relação às atividades administrativas, podendo apresentar riscos de perda de dados, falta de segurança e dificuldade na recuperação de informações históricas.</p>
 
 <b>Solução para o Projeto</b>
