@@ -47,6 +47,8 @@
     <b>Miguel Rocha</b>
   </a>
 
+  &nbsp; | &nbsp;
+
   <a href="https://github.com/lucaRomariz">
     <img src="https://github.com/lucaRomariz.png" width="40px" style="vertical-align: middle;" />
     <b>Luca Romariz</b>
