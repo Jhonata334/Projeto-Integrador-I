@@ -24,10 +24,10 @@
 
 <b>Funções da Equipe</b>
 <ul>
-  <li>Líder: Miguel Silva</li>
-  <li>Documentador: Érik Santana</li>
-  <li>Desenvolvedores: Jhonata Ferreira e Isadora Fernandes</li>
-  <li>Tester: Luca Romariz</li>
+  <li>Product Owner: Miguel Silva</li>
+  <li>Scrum Master e DBA: Érik Santana</li>
+  <li>Dev Team: Jhonata Ferreira e Isadora Fernandes</li>
+  <li>Arquiteto: Luca Romariz</li>
 </ul>  
 
 ## 👥 Colaboradores
