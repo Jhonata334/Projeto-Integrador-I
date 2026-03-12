@@ -42,10 +42,10 @@ Orientar o desenvolvimento de uma **plataforma centralizada** que automatize pro
 
 Atualmente, a instituição realiza grande parte dos processos administrativos **utilizando papel**, o que torna as atividades:
 
-- 🐢 Mais lentas
-- 📂 Difíceis de organizar
-- 🔒 Menos seguras
-- 📉 Suscetíveis à perda de dados
+- Mais lentas
+- Difíceis de organizar
+- Menos seguras
+- Suscetíveis à perda de dados
 
 Além disso, a recuperação de informações históricas se torna **complexa e pouco eficiente**.
 
