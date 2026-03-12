@@ -1,66 +1,88 @@
-<h1><b>Sistema de Gestão Escolar</b></h1>
+<h1 align="center">📚 Sistema de Gestão Escolar</h1>
 
-<b>Descrição</b>
-<p>Projeto na disciplina de Projeto Integrador I de um sistema para organizar, automatizar e integrar os processos administrativos e pedagógicos de uma instituição de ensino. O Sistema de Gestão centraliza informações da escola em um único ambiente, facilitando o acesso e o controle por parte de gestores e professores.</p>
+<p align="center">
+Sistema desenvolvido para organizar, automatizar e integrar processos administrativos e pedagógicos de uma instituição de ensino.
+</p>
 
-<b>Objetivos Iniciais</b>
-<ul>
-  <li>Definir padrões com o Stakeholder</li>
-  <li>Definir linguagens</li>
-  <li>Definir metas alcançáveis</li>
-  <li>Levantar requisitos</li>
-  <li>Realização da prototipagem</li>
-  <li>Início da documentação</li>
-</ul>
 
-<b>Objetivo do Projeto</b>
-<p>Orientar o desenvolvimento de uma plataforma centralizada que automatize os processos administrativos e acadêmicos, garantindo que a gestão de alunos, docentes e turmas ocorra de forma integrada, digital e eficiente.</p>
 
-<b>Problema Principal</b>
-<p>Atualmente, a instituição de ensino realiza processos administrativos utilizando papel, ou seja, uma metodologia arcaica e lenta em relação às atividades administrativas, podendo apresentar riscos de perda de dados, falta de segurança e dificuldade na recuperação de informações históricas.</p>
+---
 
-<b>Solução para o Projeto</b>
-<p>O Sistema de Gestão Escolar tem como objetivo gerenciar e organizar as principais informações e processos administrativos de uma instituição de ensino. O sistema permite o cadastro e gerenciamento de alunos, professores, turmas e disciplinas, facilitando o controle acadêmico e administrativo da escola.</p>
+## 📖 Descrição
 
-<b>Funções da Equipe</b>
-<ul>
-  <li>Product Owner: Miguel Silva</li>
-  <li>Scrum Master e DBA: Érik Santana</li>
-  <li>Dev Team: Jhonata Ferreira e Isadora Fernandes</li>
-  <li>Arquiteto: Luca Romariz</li>
-</ul>  
+Este projeto foi desenvolvido na disciplina **Projeto Integrador I** com o objetivo de criar um **Sistema de Gestão Escolar** capaz de centralizar e organizar as principais informações acadêmicas e administrativas de uma instituição de ensino.
 
-## 👥 Colaboradores
+A plataforma busca integrar diferentes áreas da escola em um único ambiente digital, facilitando o acesso às informações por **gestores, professores e equipe administrativa**.
 
-<p>
-  <a href="https://github.com/Jhonata334">
-    <img src="https://github.com/Jhonata334.png" width="40px" style="vertical-align: middle;" />
-    <b>Jhonata Araujo</b>
-  </a>
-  &nbsp; | &nbsp;
+---
 
-  <a href="https://github.com/isafernandes02">
-    <img src="https://github.com/isafernandes02.png" width="40px" style="vertical-align: middle;" />
-    <b>Isadora Fernandes</b>
-  </a>
-  &nbsp; | &nbsp;
+## 🎯 Objetivos Iniciais
 
-  <a href="https://github.com/Erikitzz">
-    <img src="https://github.com/Erikitzz.png" width="40px" style="vertical-align: middle;" />
-    <b>Érik Santana</b>
-  </a>
-  &nbsp; | &nbsp;
+- 🤝 Definir padrões com o **Stakeholder**
+- 💻 Definir **lingagens e tecnologias**
+- 📊 Definir **metas alcançáveis**
+- 📋 Realizar o **levantamento de requisitos**
+- 🎨 Desenvolver a **prototipagem do sistema**
+- 📝 Iniciar a **documentação do projeto**
 
-  <a href="https://github.com/Miguelrc102">
-    <img src="https://github.com/Miguelrc102.png" width="40px" style="vertical-align: middle;" />
-    <b>Miguel Rocha</b>
-  </a>
+---
 
-  &nbsp; | &nbsp;
+## 🚀 Objetivo do Projeto
 
-  <a href="https://github.com/lucaRomariz">
-    <img src="https://github.com/lucaRomariz.png" width="40px" style="vertical-align: middle;" />
-    <b>Luca Romariz</b>
-  </a>
-  
+Orientar o desenvolvimento de uma **plataforma centralizada** que automatize processos administrativos e acadêmicos, garantindo que a gestão de **alunos, docentes e turmas** ocorra de forma:
+
+- Digital
+- Integrada
+- Segura
+- Eficiente
+
+---
+
+## ⚠️ Problema Principal
+
+Atualmente, a instituição realiza grande parte dos processos administrativos **utilizando papel**, o que torna as atividades:
+
+- 🐢 Mais lentas
+- 📂 Difíceis de organizar
+- 🔒 Menos seguras
+- 📉 Suscetíveis à perda de dados
+
+Além disso, a recuperação de informações históricas se torna **complexa e pouco eficiente**.
+
+---
+
+## 💡 Solução Proposta
+
+O **Sistema de Gestão Escolar** permitirá:
+
+- 👨‍🎓 Cadastro e gerenciamento de **alunos**
+- 👩‍🏫 Gerenciamento de **professores**
+- 🏫 Controle de **turmas**
+- 📚 Administração de **disciplinas**
+- 📊 Organização de dados acadêmicos
+
+Tudo isso em uma **plataforma digital centralizada**, facilitando o controle e a gestão das informações da escola.
+
+---
+
+## 👥 Equipe do Projeto
+
+| Função | Integrante |
+|------|------|
+| 🧭 Product Owner | Miguel Silva |
+| 🛠 Scrum Master / DBA | Érik Santana |
+| 💻 Dev Team | Jhonata Ferreira |
+| 💻 Dev Team | Isadora Fernandes |
+| 🏗 Arquiteto | Luca Romariz |
+
+---
+
+## 📌 Status do Projeto
+
+🚧 **Projeto em desenvolvimento**
+
+---
+
+<p align="center">
+Desenvolvido no Projeto Integrador I 🎓
 </p>
