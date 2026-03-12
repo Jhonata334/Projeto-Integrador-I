@@ -46,4 +46,10 @@
     <img src="https://github.com/Miguelrc102.png" width="40px" style="vertical-align: middle;" />
     <b>Miguel Rocha</b>
   </a>
+
+  <a href="https://github.com/lucaRomariz">
+    <img src="https://github.com/lucaRomariz.png" width="40px" style="vertical-align: middle;" />
+    <b>Luca Romariz</b>
+  </a>
+  
 </p>
