@@ -1,4 +1,4 @@
-<h1 align="center">📚 Sistema de Gestão Escolar</h1>
+<h1 align="center">📚 EduCA</h1>
 
 <p align="center">
 Sistema desenvolvido para organizar, automatizar e integrar processos administrativos e pedagógicos de uma instituição de ensino.
